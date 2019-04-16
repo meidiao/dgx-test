@@ -1,1 +1,2 @@
 Test GIT Quick Start Demo
+Adding conflicts from master
