@@ -3,3 +3,4 @@
 # add text for copyright branch
 ADD one line
 Modify for stash sample
+update after stash fix
