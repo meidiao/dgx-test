@@ -2,3 +2,5 @@ Test GIT Quick Start Demo
 Adding conflicts from master
 add conflicats from FB again
 add chnages after rebase conflicts
+
+for stash purpose
